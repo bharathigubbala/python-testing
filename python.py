@@ -7,5 +7,5 @@ number1 = 5
 number2 = 3
 result = sum_of_two_numbers(number1, number2)
 
-#printing
+# printing the addition of 2 numbers
 print(f"The sum of {number1} and {number2} is {result}.")
