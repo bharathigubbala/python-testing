@@ -5,7 +5,7 @@ def is_prime(num):
         if num % i == 0:
             return False
     return True
-
+# print the number is prime or not
 number = int(input("Enter a number: "))
 if is_prime(number):
     print(number, "is a prime number.")
